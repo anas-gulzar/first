@@ -1,2 +1,3 @@
 # first
-this is my first c program
+this is my first c
+it is about introduction
