@@ -1,3 +1,3 @@
 # first
-this is my first c
+this is my first c,
 it is about introduction
